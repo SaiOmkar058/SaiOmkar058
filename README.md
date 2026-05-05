@@ -32,24 +32,19 @@ I specialize in creating end-to-end RESTful API solutions and am a **ServiceNow 
 ---
 
 ### 📈 GitHub Stats
-### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SaiOmkar058&show_icons=true&theme=tokyonight&count_private=true" alt="Sai Omkar Stats" />
-  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaiOmkar058&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiOmkar058&layout=compact&theme=tokyonight&hide_langs=html,css" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaiOmkar058&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://komarev.com/ghpvc/?username=SaiOmkar058&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
-
-![SaiOmkar058's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaiOmkar058&show_icons=true&theme=transparent)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaiOmkar058&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiOmkar058&layout=compact&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaiOmkar058&layout=compact&theme=radical&cache_seconds=1800)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SaiOmkar058&theme=dark)](https://git.io/streak-stats)
-![Profile Views](https://komarev.com/ghpvc/?username=SaiOmkar058&color=blue)
 
 ---
 
