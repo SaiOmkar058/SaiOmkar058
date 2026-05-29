@@ -1,8 +1,8 @@
 ## Hello, I'm Sai Omkar Attuluri 👋
 
-I am a motivated and detail-oriented Computer Science student with a focus on building, deploying, and securing production-grade web applications. Currently, I'm pursuing my B.Tech in Computer Science & Engineering (2022-2026).
+I am a motivated and detail-oriented Computer Science student with a focus on building, deploying, and securing production-grade web applications. I am a recent B.Tech graduate in Computer Science & Engineering(2022-2026).
 
-I specialize in creating end-to-end RESTful API solutions and am a **ServiceNow Certified System Administrator (CSA) & Application Developer (CAD)**.
+I specialize in creating end-to-end RESTful API solutions and am a **ServiceNow Certified System Administrator (CSA) & Certified Application Developer (CAD)**.
 
 ---
 
